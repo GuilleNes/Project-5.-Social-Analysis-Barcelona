@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import cleaning_functions as clfun
 import mapping_functions as mapp
+import json
 
 
 '''First we concatenate the different data that we have and we open it. We are focusing now in the internal migration data'''
@@ -82,4 +83,12 @@ deaths_districts = pd.read_csv("Data/Natural growth data/deaths.csv", decimal=',
 deaths_districts["Distrito"] = deaths_districts["Distrito"].apply(lambda x: x.split(". ")[1])
 deaths_districts = deaths_districts.set_index("Distrito").transpose()
 deaths_districts.rename(index={0: 2016, 1: 2017, 2: 2018, 3: 2019, 4: 2020}, inplace=True)
-deaths_districts.to_csv("Data/Natural growth data/deaths_districts.csv", index = False) 
+deaths_districts.to_csv("Data/Natural growth data/deaths_districts.csv", index = False)
+
+geo_json = "Data/bcn-geodata/districtes/districtes.geojson"
+with open(geo_json, encoding='utf-8') as geo_file:
+    geo_barcelona = json.load(geo_file)
+
+geo_json = "Data/bcn-geodata/barris/barris.geojson"
+with open(geo_json, encoding='utf-8') as geo_file:
+    geo_barrios = json.load(geo_file)
