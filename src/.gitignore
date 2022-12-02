@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.env
+test.js
+Transportation_test.ipynb
+Data/**
+**/*.ipynb_checkpoints/
+**/__pycache__
+__pycache__
