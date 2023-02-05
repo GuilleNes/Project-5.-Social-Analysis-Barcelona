@@ -1,0 +1,877 @@
+Any,Nom_Districte,Nom_Barri,Població,Superfície (ha),Densitat (hab/ha),Densitat neta (hab/ha)
+2010,Ciutat Vella,el Raval,47251,109.8,430,949
+2010,Ciutat Vella,el Barri Gòtic,18530,84.2,220,543
+2010,Ciutat Vella,la Barceloneta,16099,131.4,123,1235
+2010,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22627,111.4,203,701
+2010,Eixample,el Fort Pienc,32630,92.9,351,975
+2010,Eixample,la Sagrada Família,52167,105.1,496,1007
+2010,Eixample,la Dreta de l'Eixample,43095,212.3,203,378
+2010,Eixample,l'Antiga Esquerra de l'Eixample,41747,123.4,338,624
+2010,Eixample,la Nova Esquerra de l'Eixample,58013,133.8,434,885
+2010,Eixample,Sant Antoni,38133,80.1,476,920
+2010,Sants-Montjuïc,el Poble Sec,40340,460.5,88,1123
+2010,Sants-Montjuïc,la Marina del Prat Vermell,1139,1428.4,1,30
+2010,Sants-Montjuïc,la Marina de Port,30101,125.5,240,747
+2010,Sants-Montjuïc,la Font de la Guatlla,10281,30.2,340,901
+2010,Sants-Montjuïc,Hostafrancs,15939,41.0,389,716
+2010,Sants-Montjuïc,la Bordeta,18646,57.7,323,902
+2010,Sants-Montjuïc,Sants - Badal,24343,41.1,593,969
+2010,Sants-Montjuïc,Sants,42125,109.8,384,759
+2010,Les Corts,les Corts,47435,141.3,336,730
+2010,Les Corts,la Maternitat i Sant Ramon,23783,190.3,125,718
+2010,Les Corts,Pedralbes,11665,270.2,43,144
+2010,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4274,1152.4,4,47
+2010,Sarrià-Sant Gervasi,Sarrià,23757,304.2,78,253
+2010,Sarrià-Sant Gervasi,les Tres Torres,15741,78.8,200,370
+2010,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,24306,223.5,109,295
+2010,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46305,165.9,279,487
+2010,Sarrià-Sant Gervasi,el Putxet i el Farró,30154,84.6,356,569
+2010,Gràcia,Vallcarca i els Penitents,15459,120.9,128,339
+2010,Gràcia,el Coll,7240,35.8,202,653
+2010,Gràcia,la Salut,13321,64.3,207,700
+2010,Gràcia,la Vila de Gràcia,52311,132.6,394,626
+2010,Gràcia,el Camp d'en Grassot i Gràcia Nova,34659,65.0,534,900
+2010,Horta-Guinardó,el Baix Guinardó,26022,56.0,465,1097
+2010,Horta-Guinardó,Can Baró,9119,38.4,238,608
+2010,Horta-Guinardó,el Guinardó,35655,130.8,273,683
+2010,Horta-Guinardó,la Font d'en Fargues,9588,65.7,146,259
+2010,Horta-Guinardó,el Carmel,32349,94.2,344,851
+2010,Horta-Guinardó,la Teixonera,11821,33.7,351,637
+2010,Horta-Guinardó,Sant Genís dels Agudells,7159,171.6,42,396
+2010,Horta-Guinardó,Montbau,5256,204.7,26,450
+2010,Horta-Guinardó,la Vall d'Hebron,5611,73.6,76,689
+2010,Horta-Guinardó,la Clota,453,17.8,25,74
+2010,Horta-Guinardó,Horta,27762,308.2,90,440
+2010,Nou Barris,Vilapicina i la Torre Llobeta,25620,56.7,452,879
+2010,Nou Barris,Porta,23771,84.1,283,683
+2010,Nou Barris,el Turó de la Peira,16683,35.4,471,1242
+2010,Nou Barris,Can Peguera,2215,12.0,185,266
+2010,Nou Barris,la Guineueta,15296,61.1,250,680
+2010,Nou Barris,Canyelles,7310,79.3,92,804
+2010,Nou Barris,les Roquetes,15964,64.2,249,871
+2010,Nou Barris,Verdun,12300,23.7,518,845
+2010,Nou Barris,la Prosperitat,26575,59.5,447,976
+2010,Nou Barris,la Trinitat Nova,7871,56.0,141,626
+2010,Nou Barris,Torre Baró,2167,176.8,12,100
+2010,Nou Barris,Ciutat Meridiana,10843,35.5,305,716
+2010,Nou Barris,Vallbona,1334,59.8,22,197
+2010,Sant Andreu,la Trinitat Vella,10241,81.0,126,815
+2010,Sant Andreu,Baró de Viver,2393,23.0,104,611
+2010,Sant Andreu,el Bon Pastor,13730,188.2,73,854
+2010,Sant Andreu,Sant Andreu,55835,184.1,303,748
+2010,Sant Andreu,la Sagrera,28879,97.2,297,739
+2010,Sant Andreu,el Congrés i els Indians,13956,40.7,343,691
+2010,Sant Andreu,Navas,21810,42.3,515,963
+2010,Sant Martí,el Camp de l'Arpa del Clot,38338,74.2,517,892
+2010,Sant Martí,el Clot,27495,69.6,395,1174
+2010,Sant Martí,el Parc i la Llacuna del Poblenou,13468,111.4,121,690
+2010,Sant Martí,la Vila Olímpica del Poblenou,9240,94.3,98,382
+2010,Sant Martí,el Poblenou,31377,154.5,203,737
+2010,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,11262,123.7,91,489
+2010,Sant Martí,el Besòs i el Maresme,23749,127.4,186,904
+2010,Sant Martí,Provençals del Poblenou,19580,110.5,177,1504
+2010,Sant Martí,Sant Martí de Provençals,26164,74.5,351,1151
+2010,Sant Martí,la Verneda i la Pau,29460,112.3,262,978
+2011,Ciutat Vella,el Raval,47700,109.8,434,958
+2011,Ciutat Vella,el Barri Gòtic,17687,84.2,210,518
+2011,Ciutat Vella,la Barceloneta,15766,131.4,120,1210
+2011,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22410,111.4,201,694
+2011,Eixample,el Fort Pienc,32384,92.9,349,970
+2011,Eixample,la Sagrada Família,52009,105.1,495,1010
+2011,Eixample,la Dreta de l'Eixample,42910,212.3,202,377
+2011,Eixample,l'Antiga Esquerra de l'Eixample,41466,123.4,336,619
+2011,Eixample,la Nova Esquerra de l'Eixample,57706,133.8,431,880
+2011,Eixample,Sant Antoni,38002,80.1,474,916
+2011,Sants-Montjuïc,el Poble Sec,40547,460.5,88,1129
+2011,Sants-Montjuïc,la Marina del Prat Vermell,1124,1428.4,1,31
+2011,Sants-Montjuïc,la Marina de Port,30243,125.5,241,752
+2011,Sants-Montjuïc,la Font de la Guatlla,10223,30.2,338,896
+2011,Sants-Montjuïc,Hostafrancs,15845,41.0,386,708
+2011,Sants-Montjuïc,la Bordeta,18499,57.7,321,895
+2011,Sants-Montjuïc,Sants - Badal,24360,41.1,593,969
+2011,Sants-Montjuïc,Sants,41976,109.8,382,756
+2011,Les Corts,les Corts,47173,141.3,334,726
+2011,Les Corts,la Maternitat i Sant Ramon,23622,190.3,124,723
+2011,Les Corts,Pedralbes,11641,270.2,43,143
+2011,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4299,1152.2,4,48
+2011,Sarrià-Sant Gervasi,Sarrià,23946,304.2,79,255
+2011,Sarrià-Sant Gervasi,les Tres Torres,15770,78.8,200,371
+2011,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,24330,223.5,109,295
+2011,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46217,165.9,279,484
+2011,Sarrià-Sant Gervasi,el Putxet i el Farró,29992,84.6,354,564
+2011,Gràcia,Vallcarca i els Penitents,15417,120.9,128,328
+2011,Gràcia,el Coll,7303,35.8,204,589
+2011,Gràcia,la Salut,13154,64.4,204,678
+2011,Gràcia,la Vila de Gràcia,51228,132.6,386,613
+2011,Gràcia,el Camp d'en Grassot i Gràcia Nova,34438,65.0,530,895
+2011,Horta-Guinardó,el Baix Guinardó,26022,56.0,465,1097
+2011,Horta-Guinardó,Can Baró,8928,38.4,233,623
+2011,Horta-Guinardó,el Guinardó,35687,130.8,273,682
+2011,Horta-Guinardó,la Font d'en Fargues,9530,65.7,145,241
+2011,Horta-Guinardó,el Carmel,32108,94.2,341,822
+2011,Horta-Guinardó,la Teixonera,11796,33.7,350,626
+2011,Horta-Guinardó,Sant Genís dels Agudells,7035,171.6,41,389
+2011,Horta-Guinardó,Montbau,5211,204.7,25,446
+2011,Horta-Guinardó,la Vall d'Hebron,5580,73.6,76,685
+2011,Horta-Guinardó,la Clota,462,17.8,26,75
+2011,Horta-Guinardó,Horta,27537,308.2,89,435
+2011,Nou Barris,Vilapicina i la Torre Llobeta,25429,56.7,448,873
+2011,Nou Barris,Porta,23780,84.1,283,683
+2011,Nou Barris,el Turó de la Peira,16726,35.4,472,1246
+2011,Nou Barris,Can Peguera,2240,12.0,187,270
+2011,Nou Barris,la Guineueta,15268,61.1,250,679
+2011,Nou Barris,Canyelles,7240,79.3,91,796
+2011,Nou Barris,les Roquetes,15987,64.2,249,872
+2011,Nou Barris,Verdun,12308,23.7,518,845
+2011,Nou Barris,la Prosperitat,26566,59.5,447,975
+2011,Nou Barris,la Trinitat Nova,7704,56.0,138,613
+2011,Nou Barris,Torre Baró,2172,176.8,12,101
+2011,Nou Barris,Ciutat Meridiana,10874,35.5,306,718
+2011,Nou Barris,Vallbona,1343,59.8,22,199
+2011,Sant Andreu,la Trinitat Vella,10385,81.0,128,816
+2011,Sant Andreu,Baró de Viver,2414,23.0,105,617
+2011,Sant Andreu,el Bon Pastor,13597,188.2,72,846
+2011,Sant Andreu,Sant Andreu,56103,184.1,305,746
+2011,Sant Andreu,la Sagrera,29138,97.2,300,739
+2011,Sant Andreu,el Congrés i els Indians,14011,40.7,344,694
+2011,Sant Andreu,Navas,21722,42.3,513,959
+2011,Sant Martí,el Camp de l'Arpa del Clot,37969,74.2,512,884
+2011,Sant Martí,el Clot,27379,69.6,393,1159
+2011,Sant Martí,el Parc i la Llacuna del Poblenou,13736,111.4,123,699
+2011,Sant Martí,la Vila Olímpica del Poblenou,9252,94.3,98,383
+2011,Sant Martí,el Poblenou,32089,154.5,208,753
+2011,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,12008,123.7,97,522
+2011,Sant Martí,el Besòs i el Maresme,23948,127.4,188,906
+2011,Sant Martí,Provençals del Poblenou,19560,110.5,177,1451
+2011,Sant Martí,Sant Martí de Provençals,26164,74.5,351,1151
+2011,Sant Martí,la Verneda i la Pau,29053,112.3,259,964
+2012,Ciutat Vella,el Raval,49027,109.8,446,984
+2012,Ciutat Vella,el Barri Gòtic,16908,84.2,201,495
+2012,Ciutat Vella,la Barceloneta,15729,131.4,120,1202
+2012,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22778,111.4,204,705
+2012,Eixample,el Fort Pienc,32296,92.9,348,967
+2012,Eixample,la Sagrada Família,52109,105.1,496,1012
+2012,Eixample,la Dreta de l'Eixample,43355,212.3,204,381
+2012,Eixample,l'Antiga Esquerra de l'Eixample,41785,123.4,338,624
+2012,Eixample,la Nova Esquerra de l'Eixample,57911,133.8,433,884
+2012,Eixample,Sant Antoni,38372,80.1,479,925
+2012,Sants-Montjuïc,el Poble Sec,41258,460.5,90,1149
+2012,Sants-Montjuïc,la Marina del Prat Vermell,1153,1428.4,1,31
+2012,Sants-Montjuïc,la Marina de Port,30458,125.5,243,779
+2012,Sants-Montjuïc,la Font de la Guatlla,10285,30.2,340,902
+2012,Sants-Montjuïc,Hostafrancs,16044,41.0,391,716
+2012,Sants-Montjuïc,la Bordeta,18614,57.7,323,902
+2012,Sants-Montjuïc,Sants - Badal,24611,41.1,599,979
+2012,Sants-Montjuïc,Sants,41649,109.8,379,750
+2012,Les Corts,les Corts,46875,141.3,332,721
+2012,Les Corts,la Maternitat i Sant Ramon,23780,190.3,125,728
+2012,Les Corts,Pedralbes,11765,270.2,44,144
+2012,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4410,1152.2,4,49
+2012,Sarrià-Sant Gervasi,Sarrià,24306,304.2,80,259
+2012,Sarrià-Sant Gervasi,les Tres Torres,15936,78.8,202,375
+2012,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,24553,223.5,110,299
+2012,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46411,165.9,280,486
+2012,Sarrià-Sant Gervasi,el Putxet i el Farró,29775,84.6,352,560
+2012,Gràcia,Vallcarca i els Penitents,15499,120.9,128,330
+2012,Gràcia,el Coll,7308,35.8,204,589
+2012,Gràcia,la Salut,13212,64.3,205,676
+2012,Gràcia,la Vila de Gràcia,51147,132.6,386,613
+2012,Gràcia,el Camp d'en Grassot i Gràcia Nova,34760,65.0,535,903
+2012,Horta-Guinardó,el Baix Guinardó,25918,56.0,463,1092
+2012,Horta-Guinardó,Can Baró,9005,38.4,235,628
+2012,Horta-Guinardó,el Guinardó,35664,130.8,273,682
+2012,Horta-Guinardó,la Font d'en Fargues,9569,65.7,146,242
+2012,Horta-Guinardó,el Carmel,32012,94.2,340,578
+2012,Horta-Guinardó,la Teixonera,11776,33.7,349,625
+2012,Horta-Guinardó,Sant Genís dels Agudells,6985,171.6,41,386
+2012,Horta-Guinardó,Montbau,5144,204.7,25,441
+2012,Horta-Guinardó,la Vall d'Hebron,5569,73.6,76,683
+2012,Horta-Guinardó,la Clota,452,17.8,25,74
+2012,Horta-Guinardó,Horta,27013,308.2,88,426
+2012,Nou Barris,Vilapicina i la Torre Llobeta,25540,56.7,450,876
+2012,Nou Barris,Porta,24222,84.1,288,696
+2012,Nou Barris,el Turó de la Peira,16184,35.4,457,1205
+2012,Nou Barris,Can Peguera,2239,12.0,187,269
+2012,Nou Barris,la Guineueta,15185,61.1,248,675
+2012,Nou Barris,Canyelles,7197,79.3,91,792
+2012,Nou Barris,les Roquetes,16042,64.2,250,875
+2012,Nou Barris,Verdun,12453,23.7,524,855
+2012,Nou Barris,la Prosperitat,26471,59.5,445,972
+2012,Nou Barris,la Trinitat Nova,7627,56.0,136,607
+2012,Nou Barris,Torre Baró,2173,176.8,12,101
+2012,Nou Barris,Ciutat Meridiana,10748,35.5,302,710
+2012,Nou Barris,Vallbona,1338,59.8,22,198
+2012,Sant Andreu,la Trinitat Vella,10387,81.0,128,818
+2012,Sant Andreu,Baró de Viver,2412,23.0,105,616
+2012,Sant Andreu,el Bon Pastor,13203,188.2,70,821
+2012,Sant Andreu,Sant Andreu,56297,184.1,306,749
+2012,Sant Andreu,la Sagrera,29110,97.2,299,736
+2012,Sant Andreu,el Congrés i els Indians,14129,40.7,347,699
+2012,Sant Andreu,Navas,21915,42.3,518,974
+2012,Sant Martí,el Camp de l'Arpa del Clot,38186,74.2,515,889
+2012,Sant Martí,el Clot,27325,69.6,393,1157
+2012,Sant Martí,el Parc i la Llacuna del Poblenou,14043,111.4,126,715
+2012,Sant Martí,la Vila Olímpica del Poblenou,9249,94.3,98,382
+2012,Sant Martí,el Poblenou,32552,154.5,211,764
+2012,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,12522,123.7,101,544
+2012,Sant Martí,el Besòs i el Maresme,23725,127.4,186,901
+2012,Sant Martí,Provençals del Poblenou,19887,110.5,180,1475
+2012,Sant Martí,Sant Martí de Provençals,26151,74.5,351,1151
+2012,Sant Martí,la Verneda i la Pau,29245,112.3,260,971
+2013,Ciutat Vella,el Raval,48800,109.8,444,983
+2013,Ciutat Vella,el Barri Gòtic,16267,84.2,193,477
+2013,Ciutat Vella,la Barceloneta,15503,131.4,118,1185
+2013,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22769,111.4,204,705
+2013,Eixample,el Fort Pienc,31738,92.9,342,950
+2013,Eixample,la Sagrada Família,51806,105.1,493,1006
+2013,Eixample,la Dreta de l'Eixample,43384,212.3,204,381
+2013,Eixample,l'Antiga Esquerra de l'Eixample,41773,123.4,338,624
+2013,Eixample,la Nova Esquerra de l'Eixample,57819,133.8,432,880
+2013,Eixample,Sant Antoni,38260,80.1,478,923
+2013,Sants-Montjuïc,el Poble Sec,40984,460.5,89,1141
+2013,Sants-Montjuïc,la Marina del Prat Vermell,1172,1428.4,1,32
+2013,Sants-Montjuïc,la Marina de Port,30271,125.5,241,774
+2013,Sants-Montjuïc,la Font de la Guatlla,10313,30.2,341,904
+2013,Sants-Montjuïc,Hostafrancs,15960,41.0,389,713
+2013,Sants-Montjuïc,la Bordeta,18577,57.7,322,900
+2013,Sants-Montjuïc,Sants - Badal,24351,41.1,593,969
+2013,Sants-Montjuïc,Sants,41057,109.8,374,739
+2013,Les Corts,les Corts,46183,141.3,327,712
+2013,Les Corts,la Maternitat i Sant Ramon,23667,190.3,124,724
+2013,Les Corts,Pedralbes,11790,270.2,44,145
+2013,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4437,1152.2,4,50
+2013,Sarrià-Sant Gervasi,Sarrià,24450,304.2,80,260
+2013,Sarrià-Sant Gervasi,les Tres Torres,15984,78.8,203,376
+2013,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,24607,223.5,110,300
+2013,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46486,165.9,280,487
+2013,Sarrià-Sant Gervasi,el Putxet i el Farró,29302,84.6,346,551
+2013,Gràcia,Vallcarca i els Penitents,15453,120.9,128,329
+2013,Gràcia,el Coll,7232,35.8,202,583
+2013,Gràcia,la Salut,13210,64.3,205,681
+2013,Gràcia,la Vila de Gràcia,50615,132.6,382,606
+2013,Gràcia,el Camp d'en Grassot i Gràcia Nova,34439,65.0,530,895
+2013,Horta-Guinardó,el Baix Guinardó,25641,56.0,458,1081
+2013,Horta-Guinardó,Can Baró,8969,38.4,234,625
+2013,Horta-Guinardó,el Guinardó,35679,130.8,273,682
+2013,Horta-Guinardó,la Font d'en Fargues,9490,65.7,144,240
+2013,Horta-Guinardó,el Carmel,31789,94.2,338,813
+2013,Horta-Guinardó,la Teixonera,11654,33.7,346,619
+2013,Horta-Guinardó,Sant Genís dels Agudells,6935,171.6,40,383
+2013,Horta-Guinardó,Montbau,5111,204.7,25,438
+2013,Horta-Guinardó,la Vall d'Hebron,5494,73.6,75,674
+2013,Horta-Guinardó,la Clota,438,17.8,25,72
+2013,Horta-Guinardó,Horta,26543,308.2,86,419
+2013,Nou Barris,Vilapicina i la Torre Llobeta,25543,56.7,450,881
+2013,Nou Barris,Porta,24193,84.1,288,695
+2013,Nou Barris,el Turó de la Peira,15593,35.4,440,1161
+2013,Nou Barris,Can Peguera,2230,12.0,187,268
+2013,Nou Barris,la Guineueta,15117,61.1,247,672
+2013,Nou Barris,Canyelles,7102,79.3,90,781
+2013,Nou Barris,les Roquetes,15768,64.2,246,860
+2013,Nou Barris,Verdun,12329,23.7,519,847
+2013,Nou Barris,la Prosperitat,26299,59.5,442,965
+2013,Nou Barris,la Trinitat Nova,7551,56.0,135,601
+2013,Nou Barris,Torre Baró,2192,176.8,12,101
+2013,Nou Barris,Ciutat Meridiana,10485,35.5,295,692
+2013,Nou Barris,Vallbona,1346,59.8,23,199
+2013,Sant Andreu,la Trinitat Vella,10423,81.0,129,821
+2013,Sant Andreu,Baró de Viver,2415,23.0,105,617
+2013,Sant Andreu,el Bon Pastor,12800,188.2,68,796
+2013,Sant Andreu,Sant Andreu,56476,184.1,307,735
+2013,Sant Andreu,la Sagrera,28911,97.2,297,733
+2013,Sant Andreu,el Congrés i els Indians,14010,40.7,344,731
+2013,Sant Andreu,Navas,21811,42.3,515,969
+2013,Sant Martí,el Camp de l'Arpa del Clot,37933,74.2,511,883
+2013,Sant Martí,el Clot,27169,69.6,390,1150
+2013,Sant Martí,el Parc i la Llacuna del Poblenou,14355,111.4,129,731
+2013,Sant Martí,la Vila Olímpica del Poblenou,9319,94.3,99,385
+2013,Sant Martí,el Poblenou,32838,154.5,213,771
+2013,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,12894,123.7,104,560
+2013,Sant Martí,el Besòs i el Maresme,23118,127.4,181,878
+2013,Sant Martí,Provençals del Poblenou,20052,110.5,181,1487
+2013,Sant Martí,Sant Martí de Provençals,25994,74.5,349,1144
+2013,Sant Martí,la Verneda i la Pau,29154,112.3,260,899
+2014,Ciutat Vella,el Raval,47489,109.8,432,956
+2014,Ciutat Vella,el Barri Gòtic,15734,84.2,187,461
+2014,Ciutat Vella,la Barceloneta,15104,131.4,115,1155
+2014,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22358,111.4,201,692
+2014,Eixample,el Fort Pienc,31494,92.9,339,943
+2014,Eixample,la Sagrada Família,51299,105.1,488,996
+2014,Eixample,la Dreta de l'Eixample,43340,212.3,204,381
+2014,Eixample,l'Antiga Esquerra de l'Eixample,41717,123.4,338,623
+2014,Eixample,la Nova Esquerra de l'Eixample,57619,133.8,431,876
+2014,Eixample,Sant Antoni,38096,80.1,476,919
+2014,Sants-Montjuïc,el Poble Sec,40278,460.5,87,1121
+2014,Sants-Montjuïc,la Marina del Prat Vermell,1144,1428.4,1,31
+2014,Sants-Montjuïc,la Marina de Port,30047,125.5,239,768
+2014,Sants-Montjuïc,la Font de la Guatlla,10309,30.2,341,904
+2014,Sants-Montjuïc,Hostafrancs,15666,41.0,382,700
+2014,Sants-Montjuïc,la Bordeta,18398,57.7,319,891
+2014,Sants-Montjuïc,Sants - Badal,24128,41.1,588,960
+2014,Sants-Montjuïc,Sants,40854,109.8,372,735
+2014,Les Corts,les Corts,45984,141.3,326,709
+2014,Les Corts,la Maternitat i Sant Ramon,23564,190.3,124,721
+2014,Les Corts,Pedralbes,11652,270.2,43,143
+2014,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4514,1152.2,4,50
+2014,Sarrià-Sant Gervasi,Sarrià,24523,304.2,81,261
+2014,Sarrià-Sant Gervasi,les Tres Torres,16161,78.8,205,380
+2014,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,24926,223.5,112,304
+2014,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46466,165.9,280,487
+2014,Sarrià-Sant Gervasi,el Putxet i el Farró,29171,84.6,345,548
+2014,Gràcia,Vallcarca i els Penitents,15413,120.9,128,328
+2014,Gràcia,el Coll,7203,35.8,201,581
+2014,Gràcia,la Salut,13166,64.3,205,679
+2014,Gràcia,la Vila de Gràcia,50448,132.6,380,604
+2014,Gràcia,el Camp d'en Grassot i Gràcia Nova,34043,65.0,524,883
+2014,Horta-Guinardó,el Baix Guinardó,25527,56.0,456,1076
+2014,Horta-Guinardó,Can Baró,8859,38.4,231,618
+2014,Horta-Guinardó,el Guinardó,35534,130.8,272,679
+2014,Horta-Guinardó,la Font d'en Fargues,9440,65.7,144,239
+2014,Horta-Guinardó,el Carmel,31659,94.2,336,803
+2014,Horta-Guinardó,la Teixonera,11435,33.7,339,607
+2014,Horta-Guinardó,Sant Genís dels Agudells,6884,171.6,40,380
+2014,Horta-Guinardó,Montbau,5047,204.7,25,432
+2014,Horta-Guinardó,la Vall d'Hebron,5490,73.6,75,674
+2014,Horta-Guinardó,la Clota,521,17.8,29,85
+2014,Horta-Guinardó,Horta,26554,308.2,86,419
+2014,Nou Barris,Vilapicina i la Torre Llobeta,25336,56.7,447,874
+2014,Nou Barris,Porta,24224,84.1,288,696
+2014,Nou Barris,el Turó de la Peira,15466,35.4,437,1152
+2014,Nou Barris,Can Peguera,2262,12.0,189,272
+2014,Nou Barris,la Guineueta,15056,61.1,246,670
+2014,Nou Barris,Canyelles,6981,79.3,88,768
+2014,Nou Barris,les Roquetes,15564,64.2,243,849
+2014,Nou Barris,Verdun,12122,23.7,511,830
+2014,Nou Barris,la Prosperitat,26089,59.5,439,958
+2014,Nou Barris,la Trinitat Nova,7388,56.0,132,588
+2014,Nou Barris,Torre Baró,2547,176.8,14,118
+2014,Nou Barris,Ciutat Meridiana,10171,35.5,286,672
+2014,Nou Barris,Vallbona,1310,59.8,22,194
+2014,Sant Andreu,la Trinitat Vella,10241,81.0,126,807
+2014,Sant Andreu,Baró de Viver,2481,23.0,108,634
+2014,Sant Andreu,el Bon Pastor,12670,188.2,67,788
+2014,Sant Andreu,Sant Andreu,56269,184.1,306,733
+2014,Sant Andreu,la Sagrera,28660,97.2,295,727
+2014,Sant Andreu,el Congrés i els Indians,13921,40.7,342,727
+2014,Sant Andreu,Navas,21741,42.3,514,966
+2014,Sant Martí,el Camp de l'Arpa del Clot,37795,74.2,510,880
+2014,Sant Martí,el Clot,27035,69.6,388,1145
+2014,Sant Martí,el Parc i la Llacuna del Poblenou,14613,111.4,131,744
+2014,Sant Martí,la Vila Olímpica del Poblenou,9364,94.3,99,387
+2014,Sant Martí,el Poblenou,33011,154.5,214,775
+2014,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13156,123.7,106,571
+2014,Sant Martí,el Besòs i el Maresme,22829,127.4,179,891
+2014,Sant Martí,Provençals del Poblenou,20096,110.5,182,1491
+2014,Sant Martí,Sant Martí de Provençals,25917,74.5,348,1140
+2014,Sant Martí,la Verneda i la Pau,28813,112.3,257,889
+2015,Ciutat Vella,el Raval,47142,109.8,429,949
+2015,Ciutat Vella,el Barri Gòtic,15484,84.2,184,454
+2015,Ciutat Vella,la Barceloneta,15032,131.4,114,1149
+2015,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22457,111.4,202,695
+2015,Eixample,el Fort Pienc,31543,92.9,340,944
+2015,Eixample,la Sagrada Família,51097,105.1,486,995
+2015,Eixample,la Dreta de l'Eixample,43556,212.3,205,382
+2015,Eixample,l'Antiga Esquerra de l'Eixample,41664,123.4,338,622
+2015,Eixample,la Nova Esquerra de l'Eixample,57665,133.8,431,876
+2015,Eixample,Sant Antoni,38033,80.1,475,917
+2015,Sants-Montjuïc,el Poble Sec,40208,460.5,87,1016
+2015,Sants-Montjuïc,la Marina del Prat Vermell,1125,1428.4,1,31
+2015,Sants-Montjuïc,la Marina de Port,30232,125.5,241,773
+2015,Sants-Montjuïc,la Font de la Guatlla,10366,30.2,343,909
+2015,Sants-Montjuïc,Hostafrancs,15747,41.0,384,703
+2015,Sants-Montjuïc,la Bordeta,18378,57.7,319,890
+2015,Sants-Montjuïc,Sants - Badal,24014,41.1,585,956
+2015,Sants-Montjuïc,Sants,40687,109.8,371,732
+2015,Les Corts,les Corts,46000,141.3,326,705
+2015,Les Corts,la Maternitat i Sant Ramon,23817,190.3,125,729
+2015,Les Corts,Pedralbes,11713,270.2,43,143
+2015,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4602,1152.4,4,51
+2015,Sarrià-Sant Gervasi,Sarrià,24641,304.2,81,261
+2015,Sarrià-Sant Gervasi,les Tres Torres,16498,78.8,209,388
+2015,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25246,223.5,113,308
+2015,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46708,165.9,282,489
+2015,Sarrià-Sant Gervasi,el Putxet i el Farró,29139,84.6,344,547
+2015,Gràcia,Vallcarca i els Penitents,15492,120.9,128,331
+2015,Gràcia,el Coll,7349,35.8,205,593
+2015,Gràcia,la Salut,13227,64.3,206,689
+2015,Gràcia,la Vila de Gràcia,50415,132.6,380,604
+2015,Gràcia,el Camp d'en Grassot i Gràcia Nova,33918,65.0,522,880
+2015,Horta-Guinardó,el Baix Guinardó,25466,56.0,455,1073
+2015,Horta-Guinardó,Can Baró,8819,38.4,230,615
+2015,Horta-Guinardó,el Guinardó,35773,130.8,273,684
+2015,Horta-Guinardó,la Font d'en Fargues,9407,65.7,143,238
+2015,Horta-Guinardó,el Carmel,31456,94.2,334,798
+2015,Horta-Guinardó,la Teixonera,11361,33.7,337,603
+2015,Horta-Guinardó,Sant Genís dels Agudells,6754,171.6,39,373
+2015,Horta-Guinardó,Montbau,5046,204.7,25,432
+2015,Horta-Guinardó,la Vall d'Hebron,5468,73.6,74,671
+2015,Horta-Guinardó,la Clota,542,17.8,30,89
+2015,Horta-Guinardó,Horta,26467,308.2,86,418
+2015,Nou Barris,Vilapicina i la Torre Llobeta,25451,56.7,449,878
+2015,Nou Barris,Porta,24240,84.1,288,689
+2015,Nou Barris,el Turó de la Peira,15389,35.4,435,1151
+2015,Nou Barris,Can Peguera,2275,12.0,190,274
+2015,Nou Barris,la Guineueta,15099,61.1,247,675
+2015,Nou Barris,Canyelles,6953,79.3,88,622
+2015,Nou Barris,les Roquetes,15398,64.2,240,846
+2015,Nou Barris,Verdun,12225,23.7,515,857
+2015,Nou Barris,la Prosperitat,25979,59.5,437,949
+2015,Nou Barris,la Trinitat Nova,7332,56.0,131,583
+2015,Nou Barris,Torre Baró,2727,176.8,15,126
+2015,Nou Barris,Ciutat Meridiana,10245,35.5,288,676
+2015,Nou Barris,Vallbona,1335,59.8,22,198
+2015,Sant Andreu,la Trinitat Vella,10059,81.0,124,792
+2015,Sant Andreu,Baró de Viver,2482,23.0,108,634
+2015,Sant Andreu,el Bon Pastor,12554,188.2,67,702
+2015,Sant Andreu,Sant Andreu,56503,184.1,307,736
+2015,Sant Andreu,la Sagrera,28887,97.2,297,730
+2015,Sant Andreu,el Congrés i els Indians,14043,40.7,345,733
+2015,Sant Andreu,Navas,21966,42.3,519,976
+2015,Sant Martí,el Camp de l'Arpa del Clot,38178,74.2,515,889
+2015,Sant Martí,el Clot,26933,69.6,387,1141
+2015,Sant Martí,el Parc i la Llacuna del Poblenou,14708,111.4,132,745
+2015,Sant Martí,la Vila Olímpica del Poblenou,9326,94.3,99,386
+2015,Sant Martí,el Poblenou,33437,154.5,216,786
+2015,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13369,123.7,108,581
+2015,Sant Martí,el Besòs i el Maresme,22834,127.4,179,891
+2015,Sant Martí,Provençals del Poblenou,20161,110.5,182,1496
+2015,Sant Martí,Sant Martí de Provençals,25975,74.5,348,1147
+2015,Sant Martí,la Verneda i la Pau,28738,112.3,256,717
+2016,Ciutat Vella,el Raval,47129,109.8,429,948
+2016,Ciutat Vella,el Barri Gòtic,15614,84.2,185,457
+2016,Ciutat Vella,la Barceloneta,15021,131.4,114,1113
+2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22306,111.4,200,689
+2016,Eixample,el Fort Pienc,31653,92.9,341,948
+2016,Eixample,la Sagrada Família,51322,105.1,488,1002
+2016,Eixample,la Dreta de l'Eixample,43644,212.3,206,383
+2016,Eixample,l'Antiga Esquerra de l'Eixample,41854,123.4,339,625
+2016,Eixample,la Nova Esquerra de l'Eixample,57648,133.8,431,883
+2016,Eixample,Sant Antoni,38184,80.1,477,924
+2016,Sants-Montjuïc,el Poble Sec,40055,460.5,87,1039
+2016,Sants-Montjuïc,la Marina del Prat Vermell,1143,1428.4,1,32
+2016,Sants-Montjuïc,la Marina de Port,30385,125.5,242,774
+2016,Sants-Montjuïc,la Font de la Guatlla,10302,30.2,341,903
+2016,Sants-Montjuïc,Hostafrancs,15889,41.0,387,710
+2016,Sants-Montjuïc,la Bordeta,18512,57.7,321,897
+2016,Sants-Montjuïc,Sants - Badal,23906,41.1,582,951
+2016,Sants-Montjuïc,Sants,40785,109.8,372,734
+2016,Les Corts,les Corts,45932,141.3,325,704
+2016,Les Corts,la Maternitat i Sant Ramon,23848,190.3,125,731
+2016,Les Corts,Pedralbes,11862,270.2,44,144
+2016,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4632,1152.2,4,52
+2016,Sarrià-Sant Gervasi,Sarrià,24799,304.2,82,258
+2016,Sarrià-Sant Gervasi,les Tres Torres,16473,78.8,209,387
+2016,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25665,223.5,115,313
+2016,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,47089,165.9,284,493
+2016,Sarrià-Sant Gervasi,el Putxet i el Farró,29368,84.6,347,552
+2016,Gràcia,Vallcarca i els Penitents,15591,120.9,129,333
+2016,Gràcia,el Coll,7391,35.8,207,596
+2016,Gràcia,la Salut,13118,64.3,204,684
+2016,Gràcia,la Vila de Gràcia,50584,132.6,381,606
+2016,Gràcia,el Camp d'en Grassot i Gràcia Nova,34234,65.0,527,888
+2016,Horta-Guinardó,el Baix Guinardó,25547,56.0,456,1077
+2016,Horta-Guinardó,Can Baró,8965,38.4,234,625
+2016,Horta-Guinardó,el Guinardó,36136,130.8,276,693
+2016,Horta-Guinardó,la Font d'en Fargues,9400,65.7,143,238
+2016,Horta-Guinardó,el Carmel,31355,94.2,333,795
+2016,Horta-Guinardó,la Teixonera,11277,33.7,335,599
+2016,Horta-Guinardó,Sant Genís dels Agudells,6725,171.6,39,372
+2016,Horta-Guinardó,Montbau,5053,204.7,25,441
+2016,Horta-Guinardó,la Vall d'Hebron,5686,73.6,77,732
+2016,Horta-Guinardó,la Clota,583,17.8,33,95
+2016,Horta-Guinardó,Horta,26541,308.2,86,419
+2016,Nou Barris,Vilapicina i la Torre Llobeta,25508,56.7,450,880
+2016,Nou Barris,Porta,24519,84.1,292,697
+2016,Nou Barris,el Turó de la Peira,15364,35.4,434,1144
+2016,Nou Barris,Can Peguera,2258,12.0,189,373
+2016,Nou Barris,la Guineueta,15043,61.1,246,674
+2016,Nou Barris,Canyelles,6923,79.3,87,622
+2016,Nou Barris,les Roquetes,15398,64.2,240,846
+2016,Nou Barris,Verdun,12260,23.7,516,859
+2016,Nou Barris,la Prosperitat,26167,59.5,440,957
+2016,Nou Barris,la Trinitat Nova,7257,56.0,130,577
+2016,Nou Barris,Torre Baró,2791,176.8,16,132
+2016,Nou Barris,Ciutat Meridiana,10041,35.5,283,663
+2016,Nou Barris,Vallbona,1352,59.8,23,199
+2016,Sant Andreu,la Trinitat Vella,10032,81.0,124,790
+2016,Sant Andreu,Baró de Viver,2507,23.0,109,641
+2016,Sant Andreu,el Bon Pastor,12589,188.2,67,704
+2016,Sant Andreu,Sant Andreu,56683,184.1,308,738
+2016,Sant Andreu,la Sagrera,28796,97.2,296,728
+2016,Sant Andreu,el Congrés i els Indians,14044,40.7,345,730
+2016,Sant Andreu,Navas,22080,42.3,522,981
+2016,Sant Martí,el Camp de l'Arpa del Clot,38104,74.2,514,887
+2016,Sant Martí,el Clot,26898,69.6,386,1139
+2016,Sant Martí,el Parc i la Llacuna del Poblenou,14838,111.4,133,745
+2016,Sant Martí,la Vila Olímpica del Poblenou,9335,94.3,99,386
+2016,Sant Martí,el Poblenou,33586,154.5,217,789
+2016,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13397,123.7,108,582
+2016,Sant Martí,el Besòs i el Maresme,22746,127.4,178,888
+2016,Sant Martí,Provençals del Poblenou,20369,110.5,184,1511
+2016,Sant Martí,Sant Martí de Provençals,26010,74.5,349,1149
+2016,Sant Martí,la Verneda i la Pau,28645,112.3,255,714
+2017,Ciutat Vella,el Raval,47608,109.8,433,959
+2017,Ciutat Vella,el Barri Gòtic,16062,84.2,191,471
+2017,Ciutat Vella,la Barceloneta,14996,131.4,114,1107
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22721,111.4,204,700
+2017,Eixample,el Fort Pienc,32016,92.9,345,959
+2017,Eixample,la Sagrada Família,51539,105.1,490,1006
+2017,Eixample,la Dreta de l'Eixample,44052,212.3,207,387
+2017,Eixample,l'Antiga Esquerra de l'Eixample,42284,123.4,343,631
+2017,Eixample,la Nova Esquerra de l'Eixample,58180,133.8,435,891
+2017,Eixample,Sant Antoni,38345,80.1,479,928
+2017,Sants-Montjuïc,el Poble Sec,40228,460.5,87,1043
+2017,Sants-Montjuïc,la Marina del Prat Vermell,1149,1428.4,1,32
+2017,Sants-Montjuïc,la Marina de Port,30584,125.5,244,777
+2017,Sants-Montjuïc,la Font de la Guatlla,10401,30.2,344,912
+2017,Sants-Montjuïc,Hostafrancs,15904,41.0,388,710
+2017,Sants-Montjuïc,la Bordeta,18530,57.7,321,891
+2017,Sants-Montjuïc,Sants - Badal,23987,41.1,584,955
+2017,Sants-Montjuïc,Sants,41127,109.8,375,740
+2017,Les Corts,les Corts,46009,141.3,326,705
+2017,Les Corts,la Maternitat i Sant Ramon,23948,190.3,126,734
+2017,Les Corts,Pedralbes,12076,270.2,45,147
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4670,1152.2,4,52
+2017,Sarrià-Sant Gervasi,Sarrià,25032,304.2,82,260
+2017,Sarrià-Sant Gervasi,les Tres Torres,16667,78.8,211,391
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25774,223.5,115,314
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,47666,165.9,287,499
+2017,Sarrià-Sant Gervasi,el Putxet i el Farró,29470,84.6,348,555
+2017,Gràcia,Vallcarca i els Penitents,15759,120.9,130,335
+2017,Gràcia,el Coll,7412,35.8,207,598
+2017,Gràcia,la Salut,13185,64.3,205,680
+2017,Gràcia,la Vila de Gràcia,50662,132.6,382,607
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,34329,65.0,529,891
+2017,Horta-Guinardó,el Baix Guinardó,25672,56.0,459,1082
+2017,Horta-Guinardó,Can Baró,8994,38.4,234,627
+2017,Horta-Guinardó,el Guinardó,36467,130.8,279,699
+2017,Horta-Guinardó,la Font d'en Fargues,9383,65.7,143,238
+2017,Horta-Guinardó,el Carmel,31551,94.2,335,802
+2017,Horta-Guinardó,la Teixonera,11619,33.7,345,630
+2017,Horta-Guinardó,Sant Genís dels Agudells,6854,171.6,40,379
+2017,Horta-Guinardó,Montbau,5102,204.7,25,448
+2017,Horta-Guinardó,la Vall d'Hebron,5784,73.6,79,724
+2017,Horta-Guinardó,la Clota,610,17.8,34,100
+2017,Horta-Guinardó,Horta,26715,308.2,87,422
+2017,Nou Barris,Vilapicina i la Torre Llobeta,25591,56.7,451,870
+2017,Nou Barris,Porta,25000,84.1,297,710
+2017,Nou Barris,el Turó de la Peira,15467,35.4,437,1152
+2017,Nou Barris,Can Peguera,2271,12.0,190,375
+2017,Nou Barris,la Guineueta,15231,61.1,249,691
+2017,Nou Barris,Canyelles,6856,79.3,87,618
+2017,Nou Barris,les Roquetes,15590,64.2,243,856
+2017,Nou Barris,Verdun,12353,23.7,520,867
+2017,Nou Barris,la Prosperitat,26389,59.5,444,965
+2017,Nou Barris,la Trinitat Nova,7261,56.0,130,578
+2017,Nou Barris,Torre Baró,2856,176.8,16,135
+2017,Nou Barris,Ciutat Meridiana,10342,35.5,291,683
+2017,Nou Barris,Vallbona,1372,59.8,23,203
+2017,Sant Andreu,la Trinitat Vella,9983,81.0,123,786
+2017,Sant Andreu,Baró de Viver,2539,23.0,110,649
+2017,Sant Andreu,el Bon Pastor,12560,188.2,67,702
+2017,Sant Andreu,Sant Andreu,57183,184.1,311,746
+2017,Sant Andreu,la Sagrera,29084,97.2,299,736
+2017,Sant Andreu,el Congrés i els Indians,14116,40.7,347,737
+2017,Sant Andreu,Navas,22129,42.3,523,984
+2017,Sant Martí,el Camp de l'Arpa del Clot,38168,74.2,515,888
+2017,Sant Martí,el Clot,27039,69.6,389,1145
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,15134,111.4,136,758
+2017,Sant Martí,la Vila Olímpica del Poblenou,9367,94.3,99,387
+2017,Sant Martí,el Poblenou,33843,154.5,219,795
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13629,123.7,110,592
+2017,Sant Martí,el Besòs i el Maresme,23009,127.4,181,885
+2017,Sant Martí,Provençals del Poblenou,20487,110.5,185,1490
+2017,Sant Martí,Sant Martí de Provençals,26146,74.5,351,1116
+2017,Sant Martí,la Verneda i la Pau,28691,112.3,256,716
+2018,Ciutat Vella,el Raval,46948,110.0,427,946
+2018,Ciutat Vella,el Barri Gòtic,16731,81.6,205,492
+2018,Ciutat Vella,la Barceloneta,14739,108.5,136,1088
+2018,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22296,111.0,201,686
+2018,Eixample,el Fort Pienc,31922,92.9,343,953
+2018,Eixample,la Sagrada Família,51335,104.2,493,1002
+2018,Eixample,la Dreta de l'Eixample,43449,212.0,205,382
+2018,Eixample,l'Antiga Esquerra de l'Eixample,42189,122.8,343,630
+2018,Eixample,la Nova Esquerra de l'Eixample,57889,134.0,432,889
+2018,Eixample,Sant Antoni,38090,80.5,473,924
+2018,Sants-Montjuïc,el Poble Sec,39520,458.5,86,1045
+2018,Sants-Montjuïc,la Marina del Prat Vermell,1158,1403.4,1,32
+2018,Sants-Montjuïc,la Marina de Port,30660,126.9,242,787
+2018,Sants-Montjuïc,la Font de la Guatlla,10242,29.7,345,898
+2018,Sants-Montjuïc,Hostafrancs,15885,41.0,388,718
+2018,Sants-Montjuïc,la Bordeta,18755,57.2,328,905
+2018,Sants-Montjuïc,Sants - Badal,23921,41.5,577,954
+2018,Sants-Montjuïc,Sants,41162,109.5,376,693
+2018,Les Corts,les Corts,45939,141.0,326,710
+2018,Les Corts,la Maternitat i Sant Ramon,23856,191.5,125,749
+2018,Les Corts,Pedralbes,11960,269.1,44,146
+2018,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4698,1132.9,4,19
+2018,Sarrià-Sant Gervasi,Sarrià,24975,304.1,82,260
+2018,Sarrià-Sant Gervasi,les Tres Torres,16656,78.8,211,392
+2018,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25695,223.4,115,313
+2018,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,47594,166.9,285,499
+2018,Sarrià-Sant Gervasi,el Putxet i el Farró,29494,84.8,348,555
+2018,Gràcia,Vallcarca i els Penitents,15887,121.4,131,337
+2018,Gràcia,el Coll,7427,35.3,210,597
+2018,Gràcia,la Salut,13212,64.8,204,679
+2018,Gràcia,la Vila de Gràcia,50008,132.1,379,598
+2018,Gràcia,el Camp d'en Grassot i Gràcia Nova,34471,65.1,530,894
+2018,Horta-Guinardó,el Baix Guinardó,25685,56.2,457,1083
+2018,Horta-Guinardó,Can Baró,9045,38.4,235,632
+2018,Horta-Guinardó,el Guinardó,36757,130.9,281,706
+2018,Horta-Guinardó,la Font d'en Fargues,9430,65.7,143,243
+2018,Horta-Guinardó,el Carmel,31737,94.0,338,804
+2018,Horta-Guinardó,la Teixonera,11604,33.8,344,688
+2018,Horta-Guinardó,Sant Genís dels Agudells,7020,171.8,41,388
+2018,Horta-Guinardó,Montbau,5081,205.5,25,447
+2018,Horta-Guinardó,la Vall d'Hebron,5732,74.5,77,792
+2018,Horta-Guinardó,la Clota,650,17.8,36,107
+2018,Horta-Guinardó,Horta,26779,307.1,87,423
+2018,Nou Barris,Vilapicina i la Torre Llobeta,25609,56.4,454,873
+2018,Nou Barris,Porta,25467,83.7,304,713
+2018,Nou Barris,el Turó de la Peira,15542,35.4,439,1168
+2018,Nou Barris,Can Peguera,2268,11.9,191,369
+2018,Nou Barris,la Guineueta,15271,61.2,250,693
+2018,Nou Barris,Canyelles,6879,79.0,87,627
+2018,Nou Barris,les Roquetes,15711,64.3,244,861
+2018,Nou Barris,Verdun,12410,23.7,523,871
+2018,Nou Barris,la Prosperitat,26505,59.1,448,976
+2018,Nou Barris,la Trinitat Nova,7346,57.7,127,585
+2018,Nou Barris,Torre Baró,2880,174.2,17,136
+2018,Nou Barris,Ciutat Meridiana,10579,37.7,281,699
+2018,Nou Barris,Vallbona,1401,60.8,23,206
+2018,Sant Andreu,la Trinitat Vella,10011,81.0,124,784
+2018,Sant Andreu,Baró de Viver,2532,23.0,110,644
+2018,Sant Andreu,el Bon Pastor,12700,186.8,68,713
+2018,Sant Andreu,Sant Andreu,57551,186.5,309,752
+2018,Sant Andreu,la Sagrera,29205,98.6,296,766
+2018,Sant Andreu,el Congrés i els Indians,14160,40.9,346,740
+2018,Sant Andreu,Navas,22073,42.4,521,984
+2018,Sant Martí,el Camp de l'Arpa del Clot,38176,74.1,515,890
+2018,Sant Martí,el Clot,26965,69.7,387,1150
+2018,Sant Martí,el Parc i la Llacuna del Poblenou,15254,112.2,136,687
+2018,Sant Martí,la Vila Olímpica del Poblenou,9265,92.5,100,381
+2018,Sant Martí,el Poblenou,33844,156.7,216,752
+2018,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13574,120.3,113,566
+2018,Sant Martí,el Besòs i el Maresme,23582,118.6,199,839
+2018,Sant Martí,Provençals del Poblenou,20534,108.6,189,1308
+2018,Sant Martí,Sant Martí de Provençals,26015,73.4,354,1111
+2018,Sant Martí,la Verneda i la Pau,28751,112.7,255,720
+2019,Ciutat Vella,el Raval,47353,110.0,430,955
+2019,Ciutat Vella,el Barri Gòtic,18629,81.6,228,546
+2019,Ciutat Vella,la Barceloneta,14857,109.5,136,1097
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22590,111.0,204,697
+2019,Eixample,el Fort Pienc,32349,92.9,348,962
+2019,Eixample,la Sagrada Família,51385,104.2,493,1003
+2019,Eixample,la Dreta de l'Eixample,43515,212.0,205,382
+2019,Eixample,l'Antiga Esquerra de l'Eixample,42393,122.8,345,633
+2019,Eixample,la Nova Esquerra de l'Eixample,58032,134.1,433,891
+2019,Eixample,Sant Antoni,38236,80.4,476,925
+2019,Sants-Montjuïc,el Poble Sec,39995,458.5,87,1054
+2019,Sants-Montjuïc,la Marina del Prat Vermell,1196,1403.4,1,33
+2019,Sants-Montjuïc,la Marina de Port,30958,126.9,244,795
+2019,Sants-Montjuïc,la Font de la Guatlla,10265,29.7,346,900
+2019,Sants-Montjuïc,Hostafrancs,16014,41.0,391,724
+2019,Sants-Montjuïc,la Bordeta,19346,57.2,338,933
+2019,Sants-Montjuïc,Sants - Badal,24312,41.5,586,969
+2019,Sants-Montjuïc,Sants,42005,109.5,384,708
+2019,Les Corts,les Corts,46274,141.0,328,715
+2019,Les Corts,la Maternitat i Sant Ramon,23836,191.5,124,757
+2019,Les Corts,Pedralbes,11864,268.5,44,145
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4698,1132.9,4,19
+2019,Sarrià-Sant Gervasi,Sarrià,24901,304.7,82,261
+2019,Sarrià-Sant Gervasi,les Tres Torres,16591,78.8,211,391
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25919,223.4,116,316
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,47588,166.9,285,499
+2019,Sarrià-Sant Gervasi,el Putxet i el Farró,29563,84.8,349,557
+2019,Gràcia,Vallcarca i els Penitents,15979,125.1,128,331
+2019,Gràcia,el Coll,7459,35.3,211,600
+2019,Gràcia,la Salut,13347,64.8,206,683
+2019,Gràcia,la Vila de Gràcia,50102,132.1,379,598
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,34911,65.1,537,906
+2019,Horta-Guinardó,el Baix Guinardó,25823,56.2,459,1089
+2019,Horta-Guinardó,Can Baró,9198,38.4,239,643
+2019,Horta-Guinardó,el Guinardó,37047,130.9,283,712
+2019,Horta-Guinardó,la Font d'en Fargues,9481,65.7,144,245
+2019,Horta-Guinardó,el Carmel,32044,94.0,341,812
+2019,Horta-Guinardó,la Teixonera,11735,33.8,348,696
+2019,Horta-Guinardó,Sant Genís dels Agudells,7241,168.1,43,429
+2019,Horta-Guinardó,Montbau,5109,205.5,25,450
+2019,Horta-Guinardó,la Vall d'Hebron,5794,74.5,78,801
+2019,Horta-Guinardó,la Clota,683,17.8,38,113
+2019,Horta-Guinardó,Horta,27340,307.0,89,433
+2019,Nou Barris,Vilapicina i la Torre Llobeta,25805,56.4,457,880
+2019,Nou Barris,Porta,26446,83.7,316,740
+2019,Nou Barris,el Turó de la Peira,15710,35.4,444,1181
+2019,Nou Barris,Can Peguera,2288,11.9,193,372
+2019,Nou Barris,la Guineueta,15361,61.2,251,697
+2019,Nou Barris,Canyelles,6879,79.0,87,627
+2019,Nou Barris,les Roquetes,16156,64.3,251,885
+2019,Nou Barris,Verdun,12531,23.7,528,880
+2019,Nou Barris,la Prosperitat,26785,59.1,453,989
+2019,Nou Barris,la Trinitat Nova,7591,57.7,132,604
+2019,Nou Barris,Torre Baró,2914,174.2,17,138
+2019,Nou Barris,Ciutat Meridiana,10798,37.7,287,714
+2019,Nou Barris,Vallbona,1405,60.8,23,207
+2019,Sant Andreu,la Trinitat Vella,10285,80.8,127,810
+2019,Sant Andreu,Baró de Viver,2597,23.0,113,660
+2019,Sant Andreu,el Bon Pastor,13084,186.5,70,735
+2019,Sant Andreu,Sant Andreu,57843,186.7,310,756
+2019,Sant Andreu,la Sagrera,29353,98.6,298,770
+2019,Sant Andreu,el Congrés i els Indians,14483,40.9,354,757
+2019,Sant Andreu,Navas,22176,42.4,523,988
+2019,Sant Martí,el Camp de l'Arpa del Clot,38663,74.1,522,901
+2019,Sant Martí,el Clot,27041,69.7,388,1154
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,15461,112.2,138,693
+2019,Sant Martí,la Vila Olímpica del Poblenou,9261,92.5,100,380
+2019,Sant Martí,el Poblenou,33861,156.7,216,752
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13501,120.3,112,563
+2019,Sant Martí,el Besòs i el Maresme,24673,118.5,208,878
+2019,Sant Martí,Provençals del Poblenou,21002,108.6,193,1371
+2019,Sant Martí,Sant Martí de Provençals,26061,73.4,355,1113
+2019,Sant Martí,la Verneda i la Pau,28791,112.7,255,721
+2020,Ciutat Vella,el Raval,48038,110.0,437,969
+2020,Ciutat Vella,el Barri Gòtic,21601,81.6,265,633
+2020,Ciutat Vella,la Barceloneta,15059,117.9,128,1112
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",23160,111.0,209,715
+2020,Eixample,el Fort Pienc,33416,92.9,360,994
+2020,Eixample,la Sagrada Família,52187,104.2,501,1024
+2020,Eixample,la Dreta de l'Eixample,44200,212.0,209,388
+2020,Eixample,l'Antiga Esquerra de l'Eixample,43049,122.8,350,643
+2020,Eixample,la Nova Esquerra de l'Eixample,58579,134.1,437,899
+2020,Eixample,Sant Antoni,38900,80.4,484,941
+2020,Sants-Montjuïc,el Poble Sec,40139,458.5,88,1058
+2020,Sants-Montjuïc,la Marina del Prat Vermell,1226,1423.7,1,34
+2020,Sants-Montjuïc,la Marina de Port,31326,126.9,247,804
+2020,Sants-Montjuïc,la Font de la Guatlla,10354,29.7,349,897
+2020,Sants-Montjuïc,Hostafrancs,16188,41.0,395,733
+2020,Sants-Montjuïc,la Bordeta,19553,57.2,342,943
+2020,Sants-Montjuïc,Sants - Badal,24919,41.5,601,993
+2020,Sants-Montjuïc,Sants,43720,109.5,399,736
+2020,Les Corts,les Corts,46687,141.0,331,721
+2020,Les Corts,la Maternitat i Sant Ramon,23940,191.5,125,760
+2020,Les Corts,Pedralbes,11905,268.5,44,146
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4699,1132.9,4,19
+2020,Sarrià-Sant Gervasi,Sarrià,25171,304.7,83,264
+2020,Sarrià-Sant Gervasi,les Tres Torres,16622,78.8,211,391
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,26193,223.4,117,319
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,47909,166.9,287,502
+2020,Sarrià-Sant Gervasi,el Putxet i el Farró,30294,84.8,357,570
+2020,Gràcia,Vallcarca i els Penitents,16323,125.1,130,339
+2020,Gràcia,el Coll,7606,35.3,215,612
+2020,Gràcia,la Salut,13461,64.8,208,689
+2020,Gràcia,la Vila de Gràcia,50802,132.1,385,606
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,35422,65.1,545,919
+2020,Horta-Guinardó,el Baix Guinardó,26154,56.2,465,1103
+2020,Horta-Guinardó,Can Baró,9330,38.4,243,652
+2020,Horta-Guinardó,el Guinardó,37562,130.9,287,722
+2020,Horta-Guinardó,la Font d'en Fargues,9547,65.7,145,246
+2020,Horta-Guinardó,el Carmel,32489,94.0,346,823
+2020,Horta-Guinardó,la Teixonera,11914,33.8,353,706
+2020,Horta-Guinardó,Sant Genís dels Agudells,7377,168.1,44,437
+2020,Horta-Guinardó,Montbau,5163,205.5,25,455
+2020,Horta-Guinardó,la Vall d'Hebron,5883,74.5,79,813
+2020,Horta-Guinardó,la Clota,706,17.8,40,116
+2020,Horta-Guinardó,Horta,28322,307.0,92,448
+2020,Nou Barris,Vilapicina i la Torre Llobeta,26069,56.4,462,889
+2020,Nou Barris,Porta,27782,83.7,332,778
+2020,Nou Barris,el Turó de la Peira,16212,35.4,458,1218
+2020,Nou Barris,Can Peguera,2273,11.9,192,370
+2020,Nou Barris,la Guineueta,15416,61.2,252,699
+2020,Nou Barris,Canyelles,6865,79.0,87,626
+2020,Nou Barris,les Roquetes,16369,64.3,255,897
+2020,Nou Barris,Verdun,12786,23.7,539,898
+2020,Nou Barris,la Prosperitat,27001,59.1,457,997
+2020,Nou Barris,la Trinitat Nova,7666,57.7,133,610
+2020,Nou Barris,Torre Baró,2921,174.2,17,138
+2020,Nou Barris,Ciutat Meridiana,11083,37.7,294,733
+2020,Nou Barris,Vallbona,1421,61.4,23,209
+2020,Sant Andreu,la Trinitat Vella,10479,80.8,130,826
+2020,Sant Andreu,Baró de Viver,2622,23.0,114,667
+2020,Sant Andreu,el Bon Pastor,13640,186.8,73,766
+2020,Sant Andreu,Sant Andreu,58484,186.7,313,765
+2020,Sant Andreu,la Sagrera,29593,98.6,300,777
+2020,Sant Andreu,el Congrés i els Indians,14714,40.9,360,769
+2020,Sant Andreu,Navas,22428,42.4,529,999
+2020,Sant Martí,el Camp de l'Arpa del Clot,39096,74.1,528,911
+2020,Sant Martí,el Clot,27058,69.7,388,1154
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,15896,112.2,142,712
+2020,Sant Martí,la Vila Olímpica del Poblenou,9360,92.5,101,385
+2020,Sant Martí,el Poblenou,34373,156.7,219,764
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13510,122.7,110,564
+2020,Sant Martí,el Besòs i el Maresme,25654,120.9,212,913
+2020,Sant Martí,Provençals del Poblenou,21303,108.6,196,1391
+2020,Sant Martí,Sant Martí de Provençals,26150,73.4,356,1116
+2020,Sant Martí,la Verneda i la Pau,28863,113.0,255,721
+2021,Ciutat Vella,el Raval,47228,110.0,429,952
+2021,Ciutat Vella,el Barri Gòtic,21827,81.6,268,639
+2021,Ciutat Vella,la Barceloneta,14643,117.9,124,1081
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22131,111.0,199,683
+2021,Eixample,el Fort Pienc,31262,92.9,336,930
+2021,Eixample,la Sagrada Família,51319,104.2,493,1007
+2021,Eixample,la Dreta de l'Eixample,44675,212.0,211,392
+2021,Eixample,l'Antiga Esquerra de l'Eixample,41990,122.8,342,627
+2021,Eixample,la Nova Esquerra de l'Eixample,57054,134.1,426,876
+2021,Eixample,Sant Antoni,38053,80.4,473,921
+2021,Sants-Montjuïc,el Poble Sec,39400,458.5,86,1033
+2021,Sants-Montjuïc,la Marina del Prat Vermell,1350,1423.7,1,38
+2021,Sants-Montjuïc,la Marina de Port,30741,126.9,242,789
+2021,Sants-Montjuïc,la Font de la Guatlla,10084,29.7,339,873
+2021,Sants-Montjuïc,Hostafrancs,15842,41.0,386,717
+2021,Sants-Montjuïc,la Bordeta,19292,57.2,337,928
+2021,Sants-Montjuïc,Sants - Badal,24576,41.5,593,980
+2021,Sants-Montjuïc,Sants,43082,109.5,394,726
+2021,Les Corts,les Corts,45422,141.0,322,702
+2021,Les Corts,la Maternitat i Sant Ramon,23574,191.5,123,741
+2021,Les Corts,Pedralbes,11581,268.5,43,142
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4697,1132.9,4,19
+2021,Sarrià-Sant Gervasi,Sarrià,24405,304.7,80,256
+2021,Sarrià-Sant Gervasi,les Tres Torres,16228,78.8,206,382
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25659,223.4,115,313
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46816,166.9,280,491
+2021,Sarrià-Sant Gervasi,el Putxet i el Farró,29629,84.8,349,558
+2021,Gràcia,Vallcarca i els Penitents,16142,125.1,129,335
+2021,Gràcia,el Coll,7590,35.3,215,611
+2021,Gràcia,la Salut,13282,64.8,205,680
+2021,Gràcia,la Vila de Gràcia,49492,132.1,375,589
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,34932,65.1,537,907
+2021,Horta-Guinardó,el Baix Guinardó,25601,56.2,455,1079
+2021,Horta-Guinardó,Can Baró,9233,38.4,240,645
+2021,Horta-Guinardó,el Guinardó,36939,130.9,282,710
+2021,Horta-Guinardó,la Font d'en Fargues,9458,65.7,144,244
+2021,Horta-Guinardó,el Carmel,32444,94.0,345,822
+2021,Horta-Guinardó,la Teixonera,11926,33.8,353,707
+2021,Horta-Guinardó,Sant Genís dels Agudells,7249,168.1,43,430
+2021,Horta-Guinardó,Montbau,5071,205.5,25,447
+2021,Horta-Guinardó,la Vall d'Hebron,5882,74.5,79,813
+2021,Horta-Guinardó,la Clota,689,17.8,39,114
+2021,Horta-Guinardó,Horta,27707,307.0,90,439
+2021,Nou Barris,Vilapicina i la Torre Llobeta,25674,56.4,455,875
+2021,Nou Barris,Porta,27418,83.7,328,768
+2021,Nou Barris,el Turó de la Peira,16025,35.4,452,1204
+2021,Nou Barris,Can Peguera,2204,11.9,186,359
+2021,Nou Barris,la Guineueta,15189,61.2,248,689
+2021,Nou Barris,Canyelles,6797,79.0,86,620
+2021,Nou Barris,les Roquetes,16373,64.3,255,897
+2021,Nou Barris,Verdun,12727,23.7,537,894
+2021,Nou Barris,la Prosperitat,26669,59.1,451,985
+2021,Nou Barris,la Trinitat Nova,7507,57.7,130,598
+2021,Nou Barris,Torre Baró,2890,174.2,17,136
+2021,Nou Barris,Ciutat Meridiana,11026,37.7,293,729
+2021,Nou Barris,Vallbona,1384,61.4,23,204
+2021,Sant Andreu,la Trinitat Vella,10364,80.8,128,817
+2021,Sant Andreu,Baró de Viver,2645,23.0,115,673
+2021,Sant Andreu,el Bon Pastor,13582,186.8,73,763
+2021,Sant Andreu,Sant Andreu,57954,186.7,310,758
+2021,Sant Andreu,la Sagrera,29351,98.6,298,770
+2021,Sant Andreu,el Congrés i els Indians,14420,40.9,352,753
+2021,Sant Andreu,Navas,22091,42.4,521,984
+2021,Sant Martí,el Camp de l'Arpa del Clot,38360,74.1,518,894
+2021,Sant Martí,el Clot,26520,69.7,381,1131
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,15603,112.2,139,699
+2021,Sant Martí,la Vila Olímpica del Poblenou,9240,92.5,100,380
+2021,Sant Martí,el Poblenou,33976,156.7,217,755
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13323,122.7,109,556
+2021,Sant Martí,el Besòs i el Maresme,25657,120.9,212,913
+2021,Sant Martí,Provençals del Poblenou,20949,108.6,193,1368
+2021,Sant Martí,Sant Martí de Provençals,26032,73.4,355,1111
+2021,Sant Martí,la Verneda i la Pau,28585,113.0,253,714
