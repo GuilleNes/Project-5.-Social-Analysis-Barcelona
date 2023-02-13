@@ -2,6 +2,7 @@
 .env
 test.js
 Transportation_test.ipynb
-Data/**
+#Data/**
+Data/*/Gifs/
 **/*.ipynb_checkpoints/
 **/__pycache__
